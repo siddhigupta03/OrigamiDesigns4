@@ -1,0 +1,35 @@
+body{
+    border: solid 20px;
+}
+
+h3{
+    color: #f25000;
+    font-family: cursive;
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    opacity: 0;
+}
+
+h1{
+    text-align: center;
+    color: currentColor;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+body{
+    background-color: #a94fbb7e;
+}
+
+a:visited{
+    color: rgb(226, 208, 43);
+}
+
+a:link{
+    color: #000000;
+}
+
+.header:hover h3{
+    opacity: 1;
+}
